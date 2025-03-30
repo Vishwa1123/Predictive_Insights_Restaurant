@@ -16,5 +16,5 @@ Successfully executed responsibilities within stipulated timelines, including de
 implementing advanced deep learning models for image classification or NLP tasks with TensorFlow or PyTorch, developed data science models independently using Flask, and 
 addressed complex business challenges through optimization techniques to generate strategic insights.
 
-# OUTPUT OF THE TASK 1
-![Output](https://github.com/user-attachments/assets/09403ccd-f097-4bff-8656-fe9a1f017574)
+# OUTPUT OF THE TASK 2
+![OUTPUT](https://github.com/user-attachments/assets/a4adef1d-5cc7-4614-b531-453d7686c45a)

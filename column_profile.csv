@@ -1,0 +1,8 @@
+Column,Type,Missing Values,Unique Values
+name,object,0,145
+online_order,object,0,2
+book_table,object,0,2
+rate,object,0,20
+votes,int64,0,90
+approx_cost(for two people),int64,0,18
+listed_in(type),object,0,4
